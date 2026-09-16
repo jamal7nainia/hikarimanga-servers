@@ -81,6 +81,69 @@
       "referer": "https://rocksmanga.com/",
       "isWebsiteProtected": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rocksmanga-release.json"
+    },
+    {
+      "server": "km",
+      "type": "en",
+      "referer": "https://kuramanga.com/",
+      "isWebsiteProtected": false,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kuramanga-release.json"
+    },
+    {
+      "server": "ma",
+      "type": "en",
+      "referer": "https://mangack.com/",
+      "isWebsiteProtected": false,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangack-release.json"
+    },
+    {
+      "server": "dx",
+      "type": "en",
+      "referer": "https://mangadex.org/",
+      "isWebsiteProtected": false,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangadex-release.json"
+    },
+    {
+      "server": "mf",
+      "type": "en",
+      "referer": "https://fanfox.net/",
+      "isWebsiteProtected": false,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangafox-release.json"
+    },
+    {
+      "server": "me",
+      "type": "en",
+      "referer": "https://mangafree.info/",
+      "isWebsiteProtected": false,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangafree-release.json"
+    },
+    {
+      "server": "mg",
+      "type": "en",
+      "referer": "https://mangagg.com/",
+      "isWebsiteProtected": false,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangagg-release.json"
+    },
+    {
+      "server": "mh",
+      "type": "en",
+      "referer": "https://www.mangahere.cc/",
+      "isWebsiteProtected": false,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangahere-release.json"
+    },
+    {
+      "server": "hb",
+      "type": "en",
+      "referer": "https://mangahub.io/",
+      "isWebsiteProtected": false,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangahub-release.json"
+    },
+    {
+      "server": "mn",
+      "type": "en",
+      "referer": "https://manganow.to/",
+      "isWebsiteProtected": false,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manganow-release.json"
     }
   ]
 }
