@@ -137,7 +137,8 @@
       "server": "mg",
       "type": "en",
       "referer": "https://mangagg.com/",
-      "isWebsiteProtected": false,
+      "isWebsiteProtected": true,
+      "isPagesProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangagg-release.json"
     },
@@ -154,7 +155,7 @@
       "type": "en",
       "referer": "https://mangahub.io/",
       "isWebsiteProtected": true,
-      "isActive": true,
+      "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangahub-release.json"
     },
     {
