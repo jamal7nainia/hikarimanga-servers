@@ -165,6 +165,30 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manganow-release.json"
+    },
+    {
+      "server": "ls",
+      "type": "ar",
+      "referer": "https://lavascans.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/lavascans-release.json"
+    },
+    {
+      "server": "hj",
+      "type": "ar",
+      "referer": "https://hijala.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/hijala-release.json"
+    },
+    {
+      "server": "dl",
+      "type": "ar",
+      "referer": "https://dilar.tube/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/dilar-release.json"
     }
   ]
 }
