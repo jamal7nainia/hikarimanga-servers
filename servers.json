@@ -189,6 +189,22 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/dilar-release.json"
+    },
+    {
+      "server": "tx",
+      "type": "ar",
+      "referer": "https://olympustaff.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/teamx-release.json"
+    },
+    {
+      "server": "bm",
+      "type": "ar",
+      "referer": "https://brownmanga.site/",
+      "isWebsiteProtected": true,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/brownmanga-release.json"
     }
   ]
 }
