@@ -162,7 +162,7 @@
       "server": "mn",
       "type": "en",
       "referer": "https://manganow.to/",
-      "isWebsiteProtected": false,
+      "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manganow-release.json"
     },
