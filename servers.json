@@ -1,9 +1,5 @@
 {
   "success": true,
-  "isTrAvailable": false,
-  "isCommentAvailable": true,
-  "showActiveUsers": false,
-  "annonceDialog": {},
   "data": [
     {
       "server": "ms",
