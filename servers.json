@@ -4,6 +4,13 @@
     {
       "server": "ms",
       "type": "ar",
+      "tabs": [
+        { "title": "الأكثر مشاهدة", "query": "views" },
+        { "title": "الأكثر شعبية", "query": "trending" },
+        { "title": "الأحدث", "query": "new-manga" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "توصيات", "query": "alphabet" }
+      ],
       "referer": "https://starzmanga.com/",
       "isWebsiteProtected": true,
       "isActive": true,
@@ -12,6 +19,13 @@
     {
       "server": "ml",
       "type": "ar",
+      "tabs": [
+        { "title": "الأكثر مشاهدة", "query": "views" },
+        { "title": "الأكثر شعبية", "query": "trending" },
+        { "title": "الأحدث", "query": "new-manga" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "توصيات", "query": "alphabet" }
+      ],
       "referer": "https://mangalik.net/",
       "isWebsiteProtected": true,
       "isActive": true,
@@ -20,6 +34,13 @@
     {
       "server": "lm",
       "type": "ar",
+      "tabs": [
+        { "title": "الأكثر مشاهدة", "query": "views" },
+        { "title": "الأكثر شعبية", "query": "trending" },
+        { "title": "الأحدث", "query": "new-manga" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "توصيات", "query": "alphabet" }
+      ],
       "referer": "https://link-manga.net/",
       "isWebsiteProtected": true,
       "isActive": true,
@@ -28,6 +49,13 @@
     {
       "server": "lz",
       "type": "ar",
+      "tabs": [
+        { "title": "الأكثر مشاهدة", "query": "views" },
+        { "title": "الأكثر شعبية", "query": "trending" },
+        { "title": "الأحدث", "query": "new-manga" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "توصيات", "query": "alphabet" }
+      ],
       "referer": "https://manga-lionz.org/",
       "isWebsiteProtected": true,
       "isActive": true,
@@ -36,6 +64,13 @@
     {
       "server": "sp",
       "type": "ar",
+      "tabs": [
+        { "title": "الأكثر مشاهدة", "query": "views" },
+        { "title": "الأكثر شعبية", "query": "trending" },
+        { "title": "الأحدث", "query": "new-manga" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "توصيات", "query": "alphabet" }
+      ],
       "referer": "https://sparkmanga.net/",
       "isWebsiteProtected": true,
       "isActive": true,
@@ -44,6 +79,12 @@
     {
       "server": "mb",
       "type": "en",
+      "tabs": [
+        { "title": "الأكثر شعبية", "query": "x-popular" },
+        { "title": "الأحدث", "query": "x-latest" },
+        { "title": "الجديدة", "query": "x-new" },
+        { "title": "المكتملة", "query": "x-completed" }
+      ],
       "referer": "https://www.mangabats.com/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -52,6 +93,13 @@
     {
       "server": "m3",
       "type": "ar",
+      "tabs": [
+        { "title": "الأكثر مشاهدة", "query": "views" },
+        { "title": "الأكثر شعبية", "query": "trending" },
+        { "title": "الأحدث", "query": "new-manga" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "توصيات", "query": "alphabet" }
+      ],
       "referer": "https://3asq.online/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -60,6 +108,11 @@
     {
       "server": "az",
       "type": "ar",
+      "tabs": [
+        { "title": "الأعمال الشائعة", "query": "x-popular" },
+        { "title": "الأعمال الجديدة", "query": "x-new" },
+        { "title": "الأعمال المكتملة", "query": "x-completed" }
+      ],
       "referer": "https://azorafly.com/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -68,6 +121,11 @@
     {
       "server": "dm",
       "type": "ar",
+      "tabs": [
+        { "title": "الأعمال الشائعة", "query": "x-popular" },
+        { "title": "آخر التحديثات", "query": "x-latest" },
+        { "title": "أحدث الأعمال", "query": "x-new" }
+      ],
       "referer": "https://despair-manga.net/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -76,6 +134,11 @@
     {
       "server": "om",
       "type": "ar",
+      "tabs": [
+        { "title": "الأعمال الشائعة", "query": "x-popular" },
+        { "title": "آخر التحديثات", "query": "x-latest" },
+        { "title": "أحدث الأعمال", "query": "x-new" }
+      ],
       "referer": "https://onma.top/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -84,6 +147,11 @@
     {
       "server": "rm",
       "type": "ar",
+      "tabs": [
+        { "title": "آخر الإضافات", "query": "x-latest" },
+        { "title": "الأعمال الشائعة", "query": "x-popular" },
+        { "title": "أحدث الأعمال", "query": "x-new" }
+      ],
       "referer": "https://rocksmanga.com/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -92,6 +160,11 @@
     {
       "server": "km",
       "type": "en",
+      "tabs": [
+        { "title": "الأعمال الشائعة", "query": "x-popular" },
+        { "title": "الأعمال الجديدة", "query": "x-new" },
+        { "title": "أحدث الفصول", "query": "x-latest" }
+      ],
       "referer": "https://kuramanga.com/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -100,6 +173,12 @@
     {
       "server": "ma",
       "type": "en",
+      "tabs": [
+        { "title": "أحدث الفصول", "query": "x-latest" },
+        { "title": "الأعمال الشائعة", "query": "x-popular" },
+        { "title": "الأعمال الجديدة", "query": "x-new" },
+        { "title": "الأعمال المكتملة", "query": "x-completed" }
+      ],
       "referer": "https://mangack.com/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -108,6 +187,12 @@
     {
       "server": "dx",
       "type": "en",
+      "tabs": [
+        { "title": "أحدث الفصول", "query": "x-latest" },
+        { "title": "الأعمال الشائعة", "query": "x-popular" },
+        { "title": "أحدث الإضافات", "query": "x-new" },
+        { "title": "الأعمال المكتملة", "query": "x-completed" }
+      ],
       "referer": "https://mangadex.org/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -116,6 +201,12 @@
     {
       "server": "mf",
       "type": "en",
+      "tabs": [
+        { "title": "أحدث الفصول", "query": "x-latest" },
+        { "title": "الأعمال الأكثر شعبية", "query": "x-popular" },
+        { "title": "الأعلى تقييمًا", "query": "x-rating" },
+        { "title": "الأعمال المكتملة", "query": "x-completed" }
+      ],
       "referer": "https://fanfox.net/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -124,6 +215,12 @@
     {
       "server": "me",
       "type": "en",
+      "tabs": [
+        { "title": "الأعمال الأكثر مشاهدة", "query": "views" },
+        { "title": "الأعمال الأكثر شعبية", "query": "trending" },
+        { "title": "أحدث الفصول", "query": "latest" },
+        { "title": "الأعلى تقييمًا", "query": "rating" }
+      ],
       "referer": "https://mangafree.info/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -132,6 +229,12 @@
     {
       "server": "mg",
       "type": "en",
+      "tabs": [
+        { "title": "الأعمال الأكثر مشاهدة", "query": "views" },
+        { "title": "الأعمال الأكثر شعبية", "query": "trending" },
+        { "title": "أحدث الفصول", "query": "latest" },
+        { "title": "الأعلى تقييمًا", "query": "rating" }
+      ],
       "referer": "https://mangagg.com/",
       "isWebsiteProtected": true,
       "isPagesProtected": true,
@@ -141,6 +244,12 @@
     {
       "server": "mh",
       "type": "en",
+      "tabs": [
+        { "title": "الأعمال الأكثر شعبية", "query": "x-popular" },
+        { "title": "أحدث الفصول", "query": "x-latest" },
+        { "title": "الأعلى تقييمًا", "query": "x-rating" },
+        { "title": "الأعمال المكتملة", "query": "x-completed" }
+      ],
       "referer": "https://www.mangahere.cc/",
       "isWebsiteProtected": false,
       "isActive": false,
@@ -149,6 +258,11 @@
     {
       "server": "hb",
       "type": "en",
+      "tabs": [
+        { "title": "الأعمال الأكثر شعبية", "query": "x-popular" },
+        { "title": "أحدث الفصول", "query": "x-latest" },
+        { "title": "الأعمال الجديدة", "query": "x-new" }
+      ],
       "referer": "https://mangahub.io/",
       "isWebsiteProtected": true,
       "isActive": false,
@@ -157,6 +271,12 @@
     {
       "server": "mn",
       "type": "en",
+      "tabs": [
+        { "title": "أحدث الفصول", "query": "x-latest" },
+        { "title": "الأكثر مشاهدة", "query": "x-popular" },
+        { "title": "الأعمال الجديدة", "query": "x-new" },
+        { "title": "الأعمال المكتملة", "query": "x-completed" }
+      ],
       "referer": "https://manganow.to/",
       "isWebsiteProtected": true,
       "isActive": true,
@@ -165,6 +285,12 @@
     {
       "server": "ls",
       "type": "ar",
+      "tabs": [
+        { "title": "الأحدث إضافة", "query": "x-latest" },
+        { "title": "الأكثر مشاهدة", "query": "x-popular" },
+        { "title": "الأكثر شيوعاً اليوم", "query": "x-trending" },
+        { "title": "الترتيب الأبجدي", "query": "x-title" }
+      ],
       "referer": "https://lavascans.com/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -173,6 +299,12 @@
     {
       "server": "hj",
       "type": "ar",
+      "tabs": [
+        { "title": "أحدث الفصول", "query": "x-latest" },
+        { "title": "الأكثر مشاهدة", "query": "x-popular" },
+        { "title": "الأعمال الرائجة", "query": "x-trending" },
+        { "title": "أحدث الأعمال", "query": "x-new" }
+      ],
       "referer": "https://hijala.com/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -181,6 +313,12 @@
     {
       "server": "dl",
       "type": "ar",
+      "tabs": [
+        { "title": "الأكثر رواجاً", "query": "x-trending" },
+        { "title": "الأكثر شهرة", "query": "x-popular" },
+        { "title": "الأعمال المميزة", "query": "x-featured" },
+        { "title": "أحدث التحديثات", "query": "x-latest" }
+      ],
       "referer": "https://dilar.tube/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -189,6 +327,12 @@
     {
       "server": "tx",
       "type": "ar",
+      "tabs": [
+        { "title": "الأعمال الأكثر مشاهدة", "query": "x-views" },
+        { "title": "آخر التحديثات", "query": "x-latest" },
+        { "title": "الأعمال الشائعة", "query": "x-popular" },
+        { "title": "أحدث الأعمال", "query": "x-new" }
+      ],
       "referer": "https://olympustaff.com/",
       "isWebsiteProtected": false,
       "isActive": true,
@@ -197,6 +341,11 @@
     {
       "server": "bm",
       "type": "ar",
+      "tabs": [
+        { "title": "آخر الإضافات", "query": "x-latest" },
+        { "title": "أحدث الأعمال", "query": "x-new" },
+        { "title": "الأعمال الشائعة", "query": "x-popular" }
+      ],
       "referer": "https://brownmanga.site/",
       "isWebsiteProtected": true,
       "isActive": true,
