@@ -126,7 +126,7 @@
         { "title": "آخر التحديثات", "query": "x-latest" },
         { "title": "أحدث الأعمال", "query": "x-new" }
       ],
-      "referer": "https://despair-manga.net/",
+      "referer": "https://despair-world.com/",
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/despair-manga-release.json"
@@ -154,7 +154,7 @@
       ],
       "referer": "https://rocksmanga.com/",
       "isWebsiteProtected": false,
-      "isActive": true,
+      "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rocksmanga-release.json"
     },
     {
@@ -348,8 +348,63 @@
       ],
       "referer": "https://brownmanga.site/",
       "isWebsiteProtected": true,
-      "isActive": true,
+      "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/brownmanga-release.json"
+    },
+    {
+      "server": "kn",
+      "type": "ar",
+      "tabs": [
+        { "title": "الأعمال الشائعة", "query": "x-popular" },
+        { "title": "آخر التحديثات", "query": "x-latest" },
+        { "title": "أحدث الأعمال", "query": "x-new" },
+        { "title": "الأعلى تقييماً", "query": "x-rating" }
+      ],
+      "referer": "https://ar.kenmanga.com/",
+      "isWebsiteProtected": true,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kenmanga-release.json"
+    },
+    {
+      "server": "vs",
+      "type": "en",
+      "tabs": [
+        { "title": "الأعمال الأكثر شعبية", "query": "x-popular" },
+        { "title": "آخر التحديثات", "query": "x-latest" },
+        { "title": "جميع الأعمال", "query": "x-all" }
+      ],
+      "referer": "https://vortexscans.org/",
+      "isWebsiteProtected": true,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/vortexscans-release.json"
+    },
+    {
+      "server": "tt",
+      "type": "en",
+      "tabs": [
+        { "title": "الأعمال الشائعة", "query": "x-popular" },
+        { "title": "أحدث الفصول", "query": "x-latest" },
+        { "title": "جميع الأعمال", "query": "x-all" }
+      ],
+      "referer": "https://templetoons.com/",
+      "isWebsiteProtected": true,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/templetoons-release.json"
+    },
+    {
+      "server": "ez",
+      "type": "en",
+      "tabs": [
+        { "title": "الأكثر شعبية", "query": "x-popular" },
+        { "title": "آخر التحديثات", "query": "x-latest" },
+        { "title": "أعمال جديدة", "query": "x-new" },
+        { "title": "الأعمال المكتملة", "query": "x-completed" },
+        { "title": "جميع الأعمال", "query": "x-all" }
+      ],
+      "referer": "https://ezmanga.org/",
+      "isWebsiteProtected": true,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/ezmanga-release.json"
     }
   ]
 }
