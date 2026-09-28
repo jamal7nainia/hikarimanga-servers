@@ -237,7 +237,7 @@
       ],
       "referer": "https://mangagg.com/",
       "isWebsiteProtected": true,
-      "isPagesProtected": true,
+      "isPagesProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangagg-release.json"
     },
