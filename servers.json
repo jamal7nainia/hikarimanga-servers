@@ -362,8 +362,38 @@
       ],
       "referer": "https://ar.kenmanga.com/",
       "isWebsiteProtected": true,
-      "isActive": false,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kenmanga-release.json"
+    },
+    {
+      "server": "hz",
+      "type": "ar",
+      "tabs": [
+        { "title": "الأكثر مشاهدة", "query": "views" },
+        { "title": "الأكثر شعبية", "query": "trending" },
+        { "title": "آخر التحديثات", "query": "latest" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "أحدث الأعمال", "query": "new-manga" },
+        { "title": "توصيات", "query": "alphabet" }
+      ],
+      "referer": "https://hizomanga.net/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/hizomanga-release.json"
+    },
+    {
+      "server": "kw",
+      "type": "ar",
+      "tabs": [
+        { "title": "آخر التحديثات", "query": "latest" },
+        { "title": "الأكثر مشاهدة", "query": "views" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "الأعمال المميزة", "query": "featured" }
+      ],
+      "referer": "https://kawaiimanga.org/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kawaiimanga-release.json"
     },
     {
       "server": "vs",
