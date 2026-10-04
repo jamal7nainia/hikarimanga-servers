@@ -158,6 +158,20 @@
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rocksmanga-release.json"
     },
     {
+      "server": "mt",
+      "type": "ar",
+      "tabs": [
+        { "title": "الأكثر شعبية", "query": "views" },
+        { "title": "آخر التحديثات", "query": "latest" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "توصيات", "query": "title" }
+      ],
+      "referer": "https://mangatek.com/",
+      "isWebsiteProtected": true,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangatek-release.json"
+    },
+    {
       "server": "km",
       "type": "en",
       "tabs": [
@@ -448,6 +462,50 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kencomics-release.json"
+    },
+    {
+      "server": "qm",
+      "type": "en",
+      "tabs": [
+        { "title": "الأكثر شعبية", "query": "x-popular" },
+        { "title": "آخر التحديثات", "query": "x-latest" },
+        { "title": "أحدث الأعمال", "query": "x-new" },
+        { "title": "جميع الأعمال", "query": "x-all" }
+      ],
+      "referer": "https://qimanga.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/qimanga-release.json"
+    },
+    {
+      "server": "mr",
+      "type": "en",
+      "tabs": [
+        { "title": "الأكثر مشاهدة", "query": "views" },
+        { "title": "الأكثر شعبية", "query": "trending" },
+        { "title": "أحدث الفصول", "query": "latest" },
+        { "title": "أحدث الأعمال", "query": "new-manga" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "توصيات", "query": "alphabet" }
+      ],
+      "referer": "https://www.mangaread.org/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangaread-release.json"
+    },
+    {
+      "server": "vm",
+      "type": "en",
+      "tabs": [
+        { "title": "الأكثر شعبية", "query": "x-popular" },
+        { "title": "آخر التحديثات", "query": "x-latest" },
+        { "title": "أحدث الأعمال", "query": "x-new" },
+        { "title": "توصيات", "query": "x-all" }
+      ],
+      "referer": "https://violetmanga.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/violetmanga-release.json"
     }
   ]
 }
