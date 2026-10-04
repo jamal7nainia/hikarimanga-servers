@@ -277,7 +277,7 @@
         { "title": "الأعمال الجديدة", "query": "x-new" },
         { "title": "الأعمال المكتملة", "query": "x-completed" }
       ],
-      "referer": "https://manganow.to/",
+      "referer": "",
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manganow-release.json"
@@ -314,10 +314,10 @@
       "server": "dl",
       "type": "ar",
       "tabs": [
+        { "title": "أحدث التحديثات", "query": "x-latest" },
         { "title": "الأكثر رواجاً", "query": "x-trending" },
         { "title": "الأكثر شهرة", "query": "x-popular" },
-        { "title": "الأعمال المميزة", "query": "x-featured" },
-        { "title": "أحدث التحديثات", "query": "x-latest" }
+        { "title": "الأعمال المميزة", "query": "x-featured" }
       ],
       "referer": "https://dilar.tube/",
       "isWebsiteProtected": false,
