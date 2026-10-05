@@ -506,6 +506,34 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/violetmanga-release.json"
+    },
+    {
+      "server": "kl",
+      "type": "en",
+      "tabs": [
+        { "title": "الأكثر شعبية", "query": "x-popular" },
+        { "title": "الأحدث", "query": "x-latest" },
+        { "title": "الجديدة", "query": "x-new" },
+        { "title": "المكتملة", "query": "x-completed" }
+      ],
+      "referer": "https://www.mangakakalove.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangakakalove-release.json"
+    },
+    {
+      "server": "kt",
+      "type": "en",
+      "tabs": [
+        { "title": "الأكثر شعبية", "query": "x-popular" },
+        { "title": "الأحدث", "query": "x-latest" },
+        { "title": "الجديدة", "query": "x-new" },
+        { "title": "المكتملة", "query": "x-completed" }
+      ],
+      "referer": "https://mangakatana.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangakatana-release.json"
     }
   ]
 }
