@@ -172,6 +172,34 @@
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangatek-release.json"
     },
     {
+      "server": "sd",
+      "type": "ar",
+      "tabs": [
+        { "title": "الأكثر شعبية", "query": "views" },
+        { "title": "آخر التحديثات", "query": "latest" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "الترتيب الأبجدي", "query": "title" }
+      ],
+      "referer": "https://mangasid.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangasid-release.json"
+    },
+    {
+      "server": "md",
+      "type": "ar",
+      "tabs": [
+        { "title": "الأكثر شعبية", "query": "views" },
+        { "title": "آخر التحديثات", "query": "latest" },
+        { "title": "الأعلى تقييمًا", "query": "rating" },
+        { "title": "أحدث الإضافات", "query": "new" }
+      ],
+      "referer": "https://mangadar.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangadar-release.json"
+    },
+    {
       "server": "km",
       "type": "en",
       "tabs": [
