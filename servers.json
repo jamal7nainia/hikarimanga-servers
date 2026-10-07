@@ -168,7 +168,7 @@
       ],
       "referer": "https://mangatek.com/",
       "isWebsiteProtected": true,
-      "isActive": false,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangatek-release.json"
     },
     {
