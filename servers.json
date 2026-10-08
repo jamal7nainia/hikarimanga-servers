@@ -1081,7 +1081,7 @@
       ],
       "referer": "https://procomic.pro/ar",
       "isWebsiteProtected": false,
-      "isActive": true,
+      "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/procomic-release.json"
     },
     {
