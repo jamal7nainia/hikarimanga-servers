@@ -292,7 +292,7 @@
       ],
       "referer": "https://rocksmanga.com/",
       "isWebsiteProtected": false,
-      "isActive": false,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rocksmanga-release.json"
     },
     {
