@@ -278,16 +278,24 @@
       "type": "ar",
       "tabs": [
         {
-          "title": "آخر الإضافات",
+          "title": "آخر التحديث",
           "query": "x-latest"
         },
         {
-          "title": "الأكثر شعبية",
+          "title": "الأكثر مشاهدة",
           "query": "x-popular"
         },
         {
-          "title": "أحدث الأعمال",
+          "title": "أعلى تقييم",
+          "query": "rating"
+        },
+        {
+          "title": "مانجا جديدة",
           "query": "x-new"
+        },
+        {
+          "title": "ترتيب أبجدي",
+          "query": "alphabet"
         }
       ],
       "referer": "https://rocksmanga.com/",
