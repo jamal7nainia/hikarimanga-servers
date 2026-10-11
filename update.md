@@ -1,0 +1,1 @@
+# https://purge.jsdelivr.net/gh/jamal7nainia/hikarimanga-servers@main/servers.json
