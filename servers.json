@@ -1109,6 +1109,33 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangaball-release.json"
+    },
+    {
+      "server": "fi",
+      "type": "en",
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "الشائعة هذا الأسبوع",
+          "query": "x-trending"
+        },
+        {
+          "title": "الأكثر مشاهدة هذا الشهر",
+          "query": "x-monthly"
+        },
+        {
+          "title": "تصفح الكل",
+          "query": "x-latest"
+        }
+      ],
+      "referer": "https://mangafire.to/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode": 6,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangafire-release.json"
     }
   ]
 }
