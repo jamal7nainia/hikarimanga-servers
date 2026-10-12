@@ -1133,7 +1133,7 @@
       ],
       "referer": "https://mangafire.to/",
       "isWebsiteProtected": true,
-      "isActive": false,
+      "isActive": true,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangafire-release.json"
     }

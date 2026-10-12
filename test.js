@@ -23,7 +23,6 @@ async function test(url){
         console.log(error)
     }
 }
-test("https://dilar.tube/")
-test("https://hizomanga.net/")
+test("https://mangafire.to/")
 //updateServers();
 
