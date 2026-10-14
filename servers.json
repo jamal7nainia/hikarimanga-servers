@@ -247,7 +247,7 @@
         }
       ],
       "referer": "https://despair-world.com/",
-      "isWebsiteProtected": false,
+      "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/despair-manga-release.json"
     },
@@ -1083,6 +1083,33 @@
       "isWebsiteProtected": false,
       "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/procomic-release.json"
+    },
+    {
+      "server": "ss",
+      "type": "ar",
+      "tabs": [
+        {
+          "title": "الأعلى تقييمًا",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر مشاهدة",
+          "query": "x-views"
+        },
+        {
+          "title": "أحدث الأعمال",
+          "query": "x-new"
+        }
+      ],
+      "referer": "https://stellarsaber.pro/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode": 6,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/stellarsaber-release.json"
     },
     {
       "server": "bl",
