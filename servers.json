@@ -1267,6 +1267,29 @@
       "isActive": false,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manhuarmtl-release.json"
+    },
+     {
+      "server": "ks",
+      "type": "en",
+      "tabs": [
+       {
+        "title": "الأعمال الشائعة",
+        "query": "x-popular"
+       },
+       {
+        "title": "أحدث الفصول",
+        "query": "x-latest"
+       },
+       {
+        "title": "جميع الأعمال",
+        "query": "x-all"
+       }
+      ],
+      "referer": "https://kingofshojo.com/",
+      "isWebsiteProtected": false,
+      "isActive": false,
+      "versionCode": 6,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kingofshojo-release.json"
     }
   ]
 }
