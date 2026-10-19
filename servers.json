@@ -1290,6 +1290,37 @@
       "isActive": false,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kingofshojo-release.json"
+    },
+    {
+      "server": "at",
+      "type": "en",
+      "tabs": [
+        {
+          "title": "أحدث التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "الأعمال الجديدة",
+          "query": "x-new"
+        },
+        {
+          "title": "الترتيب الأبجدي",
+          "query": "x-title"
+        },
+        {
+          "title": "توصيات",
+          "query": "x-all"
+        }
+      ],
+      "referer": "https://athreascans.com/",
+      "isWebsiteProtected": true,
+      "isActive": true,
+      "versionCode": 6,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/athreascans-release.json"
     }
   ]
 }
