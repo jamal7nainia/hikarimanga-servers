@@ -7,16 +7,16 @@
       "type": "ar",
       "tabs": [
         {
+          "title": "الأحدث",
+          "query": "new-manga"
+        },
+        {
           "title": "الأكثر مشاهدة",
           "query": "views"
         },
         {
           "title": "الأكثر شعبية",
           "query": "trending"
-        },
-        {
-          "title": "الأحدث",
-          "query": "new-manga"
         },
         {
           "title": "الأعلى تقييمًا",
@@ -37,16 +37,16 @@
       "type": "ar",
       "tabs": [
         {
+          "title": "الأحدث",
+          "query": "new-manga"
+        },
+        {
           "title": "الأكثر مشاهدة",
           "query": "views"
         },
         {
           "title": "الأكثر شعبية",
           "query": "trending"
-        },
-        {
-          "title": "الأحدث",
-          "query": "new-manga"
         },
         {
           "title": "الأعلى تقييمًا",
@@ -66,6 +66,10 @@
       "server": "lm",
       "type": "ar",
       "tabs": [
+         {
+          "title": "الأحدث",
+          "query": "new-manga"
+        },
         {
           "title": "الأكثر مشاهدة",
           "query": "views"
@@ -73,10 +77,6 @@
         {
           "title": "الأكثر شعبية",
           "query": "trending"
-        },
-        {
-          "title": "الأحدث",
-          "query": "new-manga"
         },
         {
           "title": "الأعلى تقييمًا",
@@ -97,16 +97,16 @@
       "type": "ar",
       "tabs": [
         {
+          "title": "الأحدث",
+          "query": "new-manga"
+        },
+        {
           "title": "الأكثر مشاهدة",
           "query": "views"
         },
         {
           "title": "الأكثر شعبية",
           "query": "trending"
-        },
-        {
-          "title": "الأحدث",
-          "query": "new-manga"
         },
         {
           "title": "الأعلى تقييمًا",
@@ -127,16 +127,16 @@
       "type": "ar",
       "tabs": [
         {
+          "title": "الأحدث",
+          "query": "new-manga"
+        },
+        {
           "title": "الأكثر مشاهدة",
           "query": "views"
         },
         {
           "title": "الأكثر شعبية",
           "query": "trending"
-        },
-        {
-          "title": "الأحدث",
-          "query": "new-manga"
         },
         {
           "title": "الأعلى تقييمًا",
@@ -157,12 +157,12 @@
       "type": "en",
       "tabs": [
         {
-          "title": "الأكثر شعبية",
-          "query": "x-popular"
-        },
-        {
           "title": "الأحدث",
           "query": "x-latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
         },
         {
           "title": "الجديدة",
@@ -213,12 +213,12 @@
       "type": "ar",
       "tabs": [
         {
-          "title": "الأكثر شعبية",
-          "query": "x-popular"
-        },
-        {
           "title": "أحدث الأعمال",
           "query": "x-new"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
         },
         {
           "title": "الأعمال المكتملة",
@@ -235,16 +235,16 @@
       "type": "ar",
       "tabs": [
         {
+          "title": "أحدث الأعمال",
+          "query": "x-new"
+        },
+        {
           "title": "الأكثر شعبية",
           "query": "x-popular"
         },
         {
           "title": "آخر التحديثات",
           "query": "x-latest"
-        },
-        {
-          "title": "أحدث الأعمال",
-          "query": "x-new"
         }
       ],
       "referer": "https://despair-world.com/",
@@ -256,6 +256,10 @@
       "server": "om",
       "type": "ar",
       "tabs": [
+         {
+          "title": "أحدث الأعمال",
+          "query": "x-new"
+        },
         {
           "title": "الأكثر شعبية",
           "query": "x-popular"
@@ -263,10 +267,6 @@
         {
           "title": "آخر التحديثات",
           "query": "x-latest"
-        },
-        {
-          "title": "أحدث الأعمال",
-          "query": "x-new"
         }
       ],
       "referer": "https://onma.top/",
@@ -309,12 +309,12 @@
       "type": "ar",
       "tabs": [
         {
-          "title": "الأكثر شعبية",
-          "query": "views"
-        },
-        {
           "title": "آخر التحديثات",
           "query": "latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "views"
         },
         {
           "title": "الأعلى تقييمًا",
@@ -335,12 +335,12 @@
       "type": "ar",
       "tabs": [
         {
-          "title": "الأكثر شعبية",
-          "query": "views"
-        },
-        {
           "title": "آخر التحديثات",
           "query": "latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "views"
         },
         {
           "title": "الأعلى تقييمًا",
@@ -361,12 +361,12 @@
       "type": "ar",
       "tabs": [
         {
-          "title": "الأكثر شعبية",
-          "query": "views"
-        },
-        {
           "title": "آخر التحديثات",
           "query": "latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "views"
         },
         {
           "title": "الأعلى تقييمًا",
@@ -386,13 +386,13 @@
       "server": "km",
       "type": "en",
       "tabs": [
+         {
+          "title": "أحدث الأعمال",
+          "query": "x-new"
+        },
         {
           "title": "الأكثر شعبية",
           "query": "x-popular"
-        },
-        {
-          "title": "أحدث الأعمال",
-          "query": "x-new"
         },
         {
           "title": "أحدث الفصول",
