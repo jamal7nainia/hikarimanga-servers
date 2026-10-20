@@ -1,5 +1,6 @@
 {
   "success": true,
+  "adProvider": "startio",
   "data": [
     {
       "server": "ms",
