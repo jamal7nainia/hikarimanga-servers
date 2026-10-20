@@ -1,6 +1,6 @@
 {
   "success": true,
-  "adProvider": "startio",
+  "adProvider": "unityads",
   "data": [
     {
       "server": "ms",
