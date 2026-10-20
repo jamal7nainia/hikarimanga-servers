@@ -249,7 +249,7 @@
       ],
       "referer": "https://despair-world.com/",
       "isWebsiteProtected": true,
-      "isActive": true,
+      "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/despair-manga-release.json"
     },
     {
