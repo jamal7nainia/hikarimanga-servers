@@ -189,16 +189,16 @@
       "type": "ar",
       "tabs": [
         {
+          "title": "الأحدث",
+          "query": "new-manga"
+        },
+        {
           "title": "الأكثر مشاهدة",
           "query": "views"
         },
         {
           "title": "الأكثر شعبية",
           "query": "trending"
-        },
-        {
-          "title": "الأحدث",
-          "query": "new-manga"
         },
         {
           "title": "الأعلى تقييمًا",
