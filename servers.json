@@ -340,7 +340,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangatek-release.json",
-      "versionSource": 6
+      "versionSource": 8
     },
     {
       "server": "sd",
@@ -364,10 +364,10 @@
         }
       ],
       "referer": "https://mangasid.com/",
-      "isWebsiteProtected": false,
+      "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangasid-release.json",
-      "versionSource": 3
+      "versionSource": 5
     },
     {
       "server": "md",
@@ -711,7 +711,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/dilar-release.json",
-      "versionSource": 14
+      "versionSource": 16
     },
     {
       "server": "tx",
