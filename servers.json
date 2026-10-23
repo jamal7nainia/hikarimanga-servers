@@ -1159,12 +1159,12 @@
       "type": "en",
       "tabs": [
         {
-          "title": "الأكثر شعبية",
-          "query": "x-popular"
-        },
-        {
           "title": "آخر التحديثات",
           "query": "x-latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
         },
         {
           "title": "الأعلى تقييمًا",
@@ -1190,11 +1190,11 @@
           "query": "x-popular"
         },
         {
-          "title": "الشائعة هذا الأسبوع",
+          "title": "الشائعة",
           "query": "x-trending"
         },
         {
-          "title": "الأكثر مشاهدة هذا الشهر",
+          "title": "الأكثر مشاهدة",
           "query": "x-monthly"
         },
         {
@@ -1214,12 +1214,12 @@
       "type": "en",
       "tabs": [
         {
-          "title": "الأكثر شعبية",
-          "query": "popular"
-        },
-        {
           "title": "أحدث الفصول",
           "query": "update"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "popular"
         },
         {
           "title": "الأعمال الجديدة",
@@ -1241,13 +1241,13 @@
       "server": "as",
       "type": "en",
       "tabs": [
+         {
+          "title": "أحدث الفصول",
+          "query": "update"
+        },
         {
           "title": "الأكثر شعبية",
           "query": "popular"
-        },
-        {
-          "title": "أحدث الفصول",
-          "query": "update"
         },
         {
           "title": "الأعمال الجديدة",
@@ -1270,16 +1270,16 @@
       "type": "en",
       "tabs": [
         {
+          "title": "أحدث الفصول",
+          "query": "latest"
+        },
+        {
           "title": "الأكثر شعبية",
           "query": "trending"
         },
         {
           "title": "الأكثر مشاهدة",
           "query": "views"
-        },
-        {
-          "title": "أحدث الفصول",
-          "query": "latest"
         },
         {
           "title": "الأعمال الجديدة",
@@ -1298,12 +1298,12 @@
       "type": "en",
       "tabs": [
         {
-          "title": "الأكثر شعبية",
-          "query": "trending"
-        },
-        {
           "title": "أحدث الفصول",
           "query": "latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "trending"
         },
         {
           "title": "جميع الأعمال",
