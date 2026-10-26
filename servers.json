@@ -1372,6 +1372,62 @@
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/athreascans-release.json",
       "versionSource": 1
+    },
+    {
+      "server": "cx",
+      "type": "en",
+      "tabs": [
+        {
+          "title": "الأعمال الأحدث",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأعمال الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "الأعمال الجديدة",
+          "query": "x-new"
+        },
+        {
+          "title": "الأعمال المكتملة",
+          "query": "x-completed"
+        }
+      ],
+      "referer": "https://comix.to/",
+      "isWebsiteProtected": true,
+      "isActive": true,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/comix-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "rk",
+      "type": "en",
+      "tabs": [
+        {
+          "title": "الأعمال الأحدث",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأعمال الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "الأعمال الجديدة",
+          "query": "x-new"
+        },
+        {
+          "title": "الأعمال المكتملة",
+          "query": "x-completed"
+        }
+      ],
+      "referer": "https://rokaricomics.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rokari-release.json",
+      "versionSource": 1
     }
   ]
 }
