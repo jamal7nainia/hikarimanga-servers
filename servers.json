@@ -1232,7 +1232,7 @@
       ],
       "referer": "https://en-thunderscans.com/",
       "isWebsiteProtected": false,
-      "isActive": false,
+      "isActive": true,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/thunderscans-release.json",
       "versionSource": 7
@@ -1260,7 +1260,7 @@
       ],
       "referer": "https://arenascan.com/",
       "isWebsiteProtected": false,
-      "isActive": false,
+      "isActive": true,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/arenascans-release.json",
       "versionSource": 7
@@ -1288,7 +1288,7 @@
       ],
       "referer": "https://manhuaus.club/",
       "isWebsiteProtected": false,
-      "isActive": false,
+      "isActive": true,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manhuaus-release.json",
       "versionSource": 7
@@ -1312,7 +1312,7 @@
       ],
       "referer": "https://manhuarmtl.com/",
       "isWebsiteProtected": true,
-      "isActive": false,
+      "isActive": true,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manhuarmtl-release.json",
       "versionSource": 7
@@ -1336,7 +1336,7 @@
       ],
       "referer": "https://kingofshojo.com/",
       "isWebsiteProtected": false,
-      "isActive": false,
+      "isActive": true,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kingofshojo-release.json",
       "versionSource": 2
