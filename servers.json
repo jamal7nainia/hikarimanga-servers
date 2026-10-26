@@ -1410,7 +1410,7 @@
           "query": "x-latest"
         },
         {
-          "title": "الأعمال الأكثر شعبية",
+          "title": "الأكثر شعبية",
           "query": "x-popular"
         },
         {
