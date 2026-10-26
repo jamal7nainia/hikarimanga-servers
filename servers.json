@@ -1396,7 +1396,7 @@
       ],
       "referer": "https://comix.to/",
       "isWebsiteProtected": true,
-      "isActive": true,
+      "isActive": false,
       "versionCode": 7,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/comix-release.json",
       "versionSource": 1
@@ -1424,7 +1424,7 @@
       ],
       "referer": "https://rokaricomics.com/",
       "isWebsiteProtected": false,
-      "isActive": true,
+      "isActive": false,
       "versionCode": 7,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rokari-release.json",
       "versionSource": 1
