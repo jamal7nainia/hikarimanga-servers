@@ -542,7 +542,7 @@
       ],
       "referer": "https://mangafree.info/",
       "isWebsiteProtected": false,
-      "isActive": true,
+      "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangafree-release.json",
       "versionSource": 1
     },
