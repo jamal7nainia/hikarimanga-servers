@@ -3,6 +3,31 @@
   "adProvider": "startio",
   "data": [
     {
+      "server": "ko",
+      "type": "ar",
+      "support": ["novel"],
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "أحدث الروايات",
+          "query": "x-new"
+        }
+      ],
+      "referer": "https://kolnovel.com/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kolnovel-release.json",
+      "versionSource": 1
+    },
+    {
       "server": "ms",
       "type": "ar",
       "support": ["manga"],
