@@ -5,6 +5,7 @@
     {
       "server": "ms",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأحدث",
@@ -36,6 +37,7 @@
     {
       "server": "ml",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأحدث",
@@ -67,6 +69,7 @@
     {
       "server": "lm",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأحدث",
@@ -98,6 +101,7 @@
     {
       "server": "lz",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأحدث",
@@ -129,6 +133,7 @@
     {
       "server": "sp",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأحدث",
@@ -160,6 +165,7 @@
     {
       "server": "mb",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأحدث",
@@ -187,6 +193,7 @@
     {
       "server": "m3",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأحدث",
@@ -218,6 +225,7 @@
     {
       "server": "az",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الأعمال",
@@ -241,6 +249,7 @@
     {
       "server": "dm",
       "type": "ar",
+      "support": ["manga", "novel"],
       "tabs": [
         {
           "title": "أحدث الأعمال",
@@ -264,6 +273,7 @@
     {
       "server": "om",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الأعمال",
@@ -287,6 +297,7 @@
     {
       "server": "rm",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "آخر التحديث",
@@ -318,6 +329,7 @@
     {
       "server": "mt",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "آخر التحديثات",
@@ -345,6 +357,7 @@
     {
       "server": "sd",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "آخر التحديثات",
@@ -372,6 +385,7 @@
     {
       "server": "md",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "آخر التحديثات",
@@ -399,6 +413,7 @@
     {
       "server": "km",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الأعمال",
@@ -422,6 +437,7 @@
     {
       "server": "ma",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الفصول",
@@ -449,6 +465,7 @@
     {
       "server": "dx",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الفصول",
@@ -476,6 +493,7 @@
     {
       "server": "mf",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الفصول",
@@ -503,6 +521,7 @@
     {
       "server": "me",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر مشاهدة",
@@ -530,6 +549,7 @@
     {
       "server": "mg",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر مشاهدة",
@@ -558,6 +578,7 @@
     {
       "server": "mh",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -585,6 +606,7 @@
     {
       "server": "hb",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -608,6 +630,7 @@
     {
       "server": "mn",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الفصول",
@@ -635,6 +658,7 @@
     {
       "server": "ls",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأحدث إضافة",
@@ -662,6 +686,7 @@
     {
       "server": "hj",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الفصول",
@@ -689,6 +714,7 @@
     {
       "server": "dl",
       "type": "ar",
+      "support": ["manga", "novel"],
       "tabs": [
         {
           "title": "أحدث التحديثات",
@@ -716,6 +742,7 @@
     {
       "server": "tx",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر مشاهدة",
@@ -736,13 +763,14 @@
       ],
       "referer": "https://olympustaff.com/",
       "isWebsiteProtected": false,
-      "isActive": true,
+      "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/teamx-release.json",
       "versionSource": 5
     },
     {
       "server": "bm",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "آخر الإضافات",
@@ -766,6 +794,7 @@
     {
       "server": "kn",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -793,6 +822,7 @@
     {
       "server": "hz",
       "type": "ar",
+      "support": ["manga", "novel"],
       "tabs": [
         {
           "title": "الأكثر مشاهدة",
@@ -828,6 +858,7 @@
     {
       "server": "kw",
       "type": "ar",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "آخر التحديثات",
@@ -855,6 +886,7 @@
     {
       "server": "vs",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -878,6 +910,7 @@
     {
       "server": "tt",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -901,6 +934,7 @@
     {
       "server": "ez",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -932,6 +966,7 @@
     {
       "server": "kc",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -955,6 +990,7 @@
     {
       "server": "qm",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -982,6 +1018,7 @@
     {
       "server": "mr",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر مشاهدة",
@@ -1017,6 +1054,7 @@
     {
       "server": "vm",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -1044,6 +1082,7 @@
     {
       "server": "kl",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -1071,6 +1110,7 @@
     {
       "server": "kt",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -1098,6 +1138,7 @@
     {
       "server": "pc",
       "type": "ar",
+      "support": ["manga", "novel"],
       "tabs": [
         {
           "title": "الأكثر مشاهدة",
@@ -1129,6 +1170,7 @@
     {
       "server": "ss",
       "type": "ar",
+      "support": ["manga", "novel"],
       "tabs": [
         {
           "title": "الأعلى تقييمًا",
@@ -1157,6 +1199,7 @@
     {
       "server": "bl",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "آخر التحديثات",
@@ -1184,6 +1227,7 @@
     {
       "server": "fi",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأكثر شعبية",
@@ -1212,6 +1256,7 @@
     {
       "server": "ts",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الفصول",
@@ -1240,6 +1285,7 @@
     {
       "server": "as",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
          {
           "title": "أحدث الفصول",
@@ -1268,6 +1314,7 @@
     {
       "server": "mu",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الفصول",
@@ -1296,6 +1343,7 @@
     {
       "server": "rt",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث الفصول",
@@ -1320,6 +1368,7 @@
     {
       "server": "ks",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأعمال الشائعة",
@@ -1344,6 +1393,7 @@
     {
       "server": "at",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "أحدث التحديثات",
@@ -1376,6 +1426,7 @@
     {
       "server": "cx",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأعمال الأحدث",
@@ -1403,6 +1454,7 @@
     {
       "server": "rk",
       "type": "en",
+      "support": ["manga"],
       "tabs": [
         {
           "title": "الأعمال الأحدث",
