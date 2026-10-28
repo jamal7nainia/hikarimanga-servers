@@ -25,7 +25,7 @@
       "isActive": false,
       "versionCode": 7,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kolnovel-release.json",
-      "versionSource": 2
+      "versionSource": 4
     },
     {
       "server": "ms",
@@ -762,7 +762,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/dilar-release.json",
-      "versionSource": 16
+      "versionSource": 17
     },
     {
       "server": "tx",
