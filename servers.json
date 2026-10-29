@@ -225,8 +225,7 @@
       ],
       "referer": "https://meshmanga.com/",
       "isWebsiteProtected": true,
-      "isActive": false,
-      "versionCode": 7,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/meshmanga-release.json",
       "versionSource": 2
     },
@@ -260,8 +259,7 @@
       ],
       "referer": "https://mangatime.org/",
       "isWebsiteProtected": true,
-      "isActive": false,
-      "versionCode": 7,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangatime-release.json",
       "versionSource": 2
     },
