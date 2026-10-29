@@ -199,7 +199,7 @@
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangaspark-release.json",
       "versionSource": 5
     },
-     {
+    {
       "server": "mm",
       "type": "ar",
       "support": [
@@ -226,9 +226,9 @@
       "referer": "https://meshmanga.com/",
       "isWebsiteProtected": true,
       "isActive": false,
-      "versionCode":7,
+      "versionCode": 7,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/meshmanga-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "ti",
@@ -261,9 +261,9 @@
       "referer": "https://mangatime.org/",
       "isWebsiteProtected": true,
       "isActive": false,
-      "versionCode":7,
+      "versionCode": 7,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangatime-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "mb",
