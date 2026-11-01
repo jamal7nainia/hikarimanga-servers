@@ -30,6 +30,45 @@
       "versionSource": 4
     },
     {
+      "server": "cn",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأعلى تقييماً",
+          "query": "x-rating"
+        },
+        {
+          "title": "الأكثر مشاهدة",
+          "query": "x-views"
+        },
+        {
+          "title": "روايات كورية",
+          "query": "x-korean"
+        },
+        {
+          "title": "روايات مكتملة",
+          "query": "x-completed"
+        }
+      ],
+      "referer": "https://cenele.com/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/cenele-release.json",
+      "versionSource": 2
+    },
+    {
       "server": "ms",
       "type": "ar",
       "support": [
@@ -61,7 +100,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangastarz-release.json",
-      "versionSource": 13
+      "versionSource": 23
     },
     {
       "server": "ml",
@@ -528,7 +567,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangadar-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "km",
@@ -584,7 +623,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangack-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "dx",
@@ -674,7 +713,7 @@
       "isWebsiteProtected": false,
       "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangafree-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "mg",
@@ -735,7 +774,7 @@
       "isWebsiteProtected": false,
       "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangahere-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "hb",
@@ -761,7 +800,7 @@
       "isWebsiteProtected": true,
       "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangahub-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "mn",
@@ -882,7 +921,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/dilar-release.json",
-      "versionSource": 17
+      "versionSource": 27
     },
     {
       "server": "tx",
@@ -910,7 +949,7 @@
       ],
       "referer": "https://olympustaff.com/",
       "isWebsiteProtected": false,
-      "isActive": false,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/teamx-release.json",
       "versionSource": 5
     },
@@ -938,7 +977,7 @@
       "isWebsiteProtected": true,
       "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/brownmanga-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "kn",
@@ -1037,7 +1076,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kawaiimanga-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "vs",
@@ -1617,7 +1656,7 @@
       "isActive": false,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/athreascans-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "cx",
@@ -1647,7 +1686,7 @@
       "isWebsiteProtected": true,
       "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/comix-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "rk",
@@ -1678,7 +1717,7 @@
       "isActive": true,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rokari-release.json",
-      "versionSource": 1
+      "versionSource": 2
     }
   ]
 }
