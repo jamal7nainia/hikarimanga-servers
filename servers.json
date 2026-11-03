@@ -69,6 +69,76 @@
       "versionSource": 2
     },
     {
+      "server": "gx",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأعلى تقييماً",
+          "query": "x-rating"
+        },
+        {
+          "title": "أبجدي",
+          "query": "x-alphabetical"
+        },
+        {
+          "title": "الروايات المكتملة",
+          "query": "x-completed"
+        }
+      ],
+      "referer": "https://galaxynovels.com/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/galaxynovels-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "sn",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "أشهر الروايات",
+          "query": "x-popular"
+        },
+        {
+          "title": "أحدث الفصول",
+          "query": "x-latest"
+        },
+        {
+          "title": "روايات إثارة",
+          "query": "x-thriller"
+        },
+        {
+          "title": "روايات يابانية",
+          "query": "x-japanese"
+        },
+        {
+          "title": "روايات كورية",
+          "query": "x-korean"
+        }
+      ],
+      "referer": "https://sunovels.com/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/sunovels-release.json",
+      "versionSource": 1
+    },
+    {
       "server": "ms",
       "type": "ar",
       "support": [
@@ -931,12 +1001,12 @@
       ],
       "tabs": [
         {
-          "title": "الأكثر مشاهدة",
-          "query": "x-views"
-        },
-        {
           "title": "آخر التحديثات",
           "query": "x-latest"
+        },
+        {
+          "title": "الأكثر مشاهدة",
+          "query": "x-views"
         },
         {
           "title": "الأكثر شعبية",
@@ -1718,6 +1788,76 @@
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rokari-release.json",
       "versionSource": 2
+    },
+    {
+      "server": "gx",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأعلى تقييماً",
+          "query": "x-rating"
+        },
+        {
+          "title": "أبجدي",
+          "query": "x-alphabetical"
+        },
+        {
+          "title": "الروايات المكتملة",
+          "query": "x-completed"
+        }
+      ],
+      "referer": "https://galaxynovels.com/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/galaxynovels-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "sn",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "أشهر الروايات",
+          "query": "x-popular"
+        },
+        {
+          "title": "أحدث الفصول",
+          "query": "x-latest"
+        },
+        {
+          "title": "روايات إثارة",
+          "query": "x-thriller"
+        },
+        {
+          "title": "روايات يابانية",
+          "query": "x-japanese"
+        },
+        {
+          "title": "روايات كورية",
+          "query": "x-korean"
+        }
+      ],
+      "referer": "https://sunovels.com/",
+      "isWebsiteProtected": false,
+      "isActive": false,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/sunovels-release.json",
+      "versionSource": 1
     }
   ]
 }
