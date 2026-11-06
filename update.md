@@ -1,1 +1,7 @@
-# https://purge.jsdelivr.net/gh/jamal7nainia/hikarimanga-servers@main/servers.json
+https://galaxynovels.com/
+https://sunovels.com/
+https://realmnovel.com/
+https://ar-no.com/
+https://seanovel.org/
+https://mknov.com/
+https://rewayat.club/

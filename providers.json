@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "defaultProviderId": "hikari_default",
+  "providers": [
+    {
+      "id": "gemini",
+      "name": "Google Gemini",
+      "websiteUrl": "https://aistudio.google.com/app/apikey",
+      "auth": {
+        "type": "header",
+        "headerName": "x-goog-api-key",
+        "paramName": "key",
+        "keyPlaceholder": "AIzaSy..."
+      },
+      "endpoints": {
+        "baseUrl": "https://generativelanguage.googleapis.com",
+        "chatPath": "/v1beta/models/{model}:generateContent",
+        "modelsPath": "/v1beta/models"
+      },
+      "requestConfig": {
+        "apiFormat": "gemini",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3
+      },
+      "modelsConfig": {
+        "defaultModelId": "gemini-1.5-flash",
+        "responseExtractor": {
+          "itemsPath": "models",
+          "idKey": "name",
+          "nameKey": "displayName",
+          "stripPrefix": "models/",
+          "filter": {
+            "key": "supportedGenerationMethods",
+            "mustContain": "generateContent"
+          }
+        },
+        "defaultModels": [
+          { "id": "gemini-1.5-flash", "name": "Gemini 1.5 Flash" },
+          { "id": "gemini-1.5-flash-8b", "name": "Gemini 1.5 Flash-8B" },
+          { "id": "gemini-1.5-pro", "name": "Gemini 1.5 Pro" }
+        ]
+      }
+    },
+    {
+      "id": "groq",
+      "name": "Groq",
+      "websiteUrl": "https://console.groq.com/keys",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "gsk_..."
+      },
+      "endpoints": {
+        "baseUrl": "https://api.groq.com/openai/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.2
+      },
+      "modelsConfig": {
+        "defaultModelId": "llama-3.3-70b-versatile",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          { "id": "llama-3.3-70b-versatile", "name": "Llama 3.3 70B Versatile" },
+          { "id": "llama-3.1-8b-instant", "name": "Llama 3.1 8B Instant" }
+        ]
+      }
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "websiteUrl": "https://platform.openai.com/api-keys",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "sk-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://api.openai.com/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3
+      },
+      "modelsConfig": {
+        "defaultModelId": "gpt-4o-mini",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          { "id": "gpt-4o-mini", "name": "GPT-4o Mini" },
+          { "id": "gpt-4o", "name": "GPT-4o" }
+        ]
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "websiteUrl": "https://platform.deepseek.com/api_keys",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "sk-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://api.deepseek.com",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3
+      },
+      "modelsConfig": {
+        "defaultModelId": "deepseek-chat",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          { "id": "deepseek-chat", "name": "DeepSeek Chat (V3)" },
+          { "id": "deepseek-reasoner", "name": "DeepSeek Reasoner (R1)" }
+        ]
+      }
+    },
+    {
+      "id": "openrouter",
+      "name": "OpenRouter",
+      "websiteUrl": "https://openrouter.ai/keys",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "sk-or-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://openrouter.ai/api/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json",
+          "HTTP-Referer": "https://hikarimanga.me",
+          "X-Title": "Hikari Manga"
+        },
+        "defaultParams": {},
+        "temperature": 0.3
+      },
+      "modelsConfig": {
+        "defaultModelId": "meta-llama/llama-3.3-70b-instruct:free",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "name"
+        },
+        "defaultModels": [
+          { "id": "meta-llama/llama-3.3-70b-instruct:free", "name": "Llama 3.3 70B (مجاني)" },
+          { "id": "google/gemini-2.0-flash-exp:free", "name": "Gemini 2.0 Flash (مجاني)" }
+        ]
+      }
+    }
+  ]
+}
+

@@ -1755,7 +1755,7 @@
       "referer": "https://comix.to/",
       "isWebsiteProtected": true,
       "isActive": false,
-      "versionCode":7,
+      "versionCode": 7,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/comix-release.json",
       "versionSource": 2
     },
@@ -1831,7 +1831,7 @@
       "isActive": false,
       "versionCode": 7,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/realmnovel-release.json",
-      "versionSource": 2
+      "versionSource": 3
     },
     {
       "server": "an",
@@ -1866,6 +1866,95 @@
       "isActive": false,
       "versionCode": 7,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/arno-release.json",
+      "versionSource": 2
+    },
+    {
+      "server": "se",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الروايات المكتملة",
+          "query": "x-completed"
+        },
+        {
+          "title": "روايات كورية",
+          "query": "x-korean"
+        },
+        {
+          "title": "روايات صينية",
+          "query": "x-chinese"
+        },
+        {
+          "title": "روايات يابانية",
+          "query": "x-japanese"
+        }
+      ],
+      "referer": "https://seanovel.org/",
+      "isWebsiteProtected": false,
+      "isActive": false,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/seanovel-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "mk",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر مشاهدة",
+          "query": "x-popular"
+        }
+      ],
+      "referer": "https://mknov.com/",
+      "isWebsiteProtected": false,
+      "isActive": false,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mknov-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "rc",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر فصولاً",
+          "query": "x-chapters"
+        }
+      ],
+      "referer": "https://rewayat.club/",
+      "isWebsiteProtected": false,
+      "isActive": false,
+      "versionCode": 7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rewayatclub-release.json",
       "versionSource": 1
     }
   ]

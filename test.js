@@ -23,6 +23,6 @@ async function test(url){
         console.log(error)
     }
 }
-test("https://mangafire.to/")
+test("https://meshmanga.com/")
 //updateServers();
 
