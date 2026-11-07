@@ -23,7 +23,8 @@
           "Content-Type": "application/json"
         },
         "defaultParams": {},
-        "temperature": 0.3
+        "temperature": 0.3,
+        "responseContentPath": "candidates.0.content.parts.0.text"
       },
       "modelsConfig": {
         "defaultModelId": "gemini-1.5-flash",
@@ -38,9 +39,18 @@
           }
         },
         "defaultModels": [
-          { "id": "gemini-1.5-flash", "name": "Gemini 1.5 Flash" },
-          { "id": "gemini-1.5-flash-8b", "name": "Gemini 1.5 Flash-8B" },
-          { "id": "gemini-1.5-pro", "name": "Gemini 1.5 Pro" }
+          {
+            "id": "gemini-1.5-flash",
+            "name": "Gemini 1.5 Flash"
+          },
+          {
+            "id": "gemini-1.5-flash-8b",
+            "name": "Gemini 1.5 Flash-8B"
+          },
+          {
+            "id": "gemini-1.5-pro",
+            "name": "Gemini 1.5 Pro"
+          }
         ]
       }
     },
@@ -63,7 +73,8 @@
           "Content-Type": "application/json"
         },
         "defaultParams": {},
-        "temperature": 0.2
+        "temperature": 0.2,
+        "responseContentPath": "choices.0.message.content"
       },
       "modelsConfig": {
         "defaultModelId": "llama-3.3-70b-versatile",
@@ -73,8 +84,14 @@
           "nameKey": "id"
         },
         "defaultModels": [
-          { "id": "llama-3.3-70b-versatile", "name": "Llama 3.3 70B Versatile" },
-          { "id": "llama-3.1-8b-instant", "name": "Llama 3.1 8B Instant" }
+          {
+            "id": "llama-3.3-70b-versatile",
+            "name": "Llama 3.3 70B Versatile"
+          },
+          {
+            "id": "llama-3.1-8b-instant",
+            "name": "Llama 3.1 8B Instant"
+          }
         ]
       }
     },
@@ -97,7 +114,8 @@
           "Content-Type": "application/json"
         },
         "defaultParams": {},
-        "temperature": 0.3
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
       },
       "modelsConfig": {
         "defaultModelId": "gpt-4o-mini",
@@ -107,8 +125,14 @@
           "nameKey": "id"
         },
         "defaultModels": [
-          { "id": "gpt-4o-mini", "name": "GPT-4o Mini" },
-          { "id": "gpt-4o", "name": "GPT-4o" }
+          {
+            "id": "gpt-4o-mini",
+            "name": "GPT-4o Mini"
+          },
+          {
+            "id": "gpt-4o",
+            "name": "GPT-4o"
+          }
         ]
       }
     },
@@ -131,7 +155,8 @@
           "Content-Type": "application/json"
         },
         "defaultParams": {},
-        "temperature": 0.3
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
       },
       "modelsConfig": {
         "defaultModelId": "deepseek-chat",
@@ -141,8 +166,14 @@
           "nameKey": "id"
         },
         "defaultModels": [
-          { "id": "deepseek-chat", "name": "DeepSeek Chat (V3)" },
-          { "id": "deepseek-reasoner", "name": "DeepSeek Reasoner (R1)" }
+          {
+            "id": "deepseek-chat",
+            "name": "DeepSeek Chat (V3)"
+          },
+          {
+            "id": "deepseek-reasoner",
+            "name": "DeepSeek Reasoner (R1)"
+          }
         ]
       }
     },
@@ -167,7 +198,8 @@
           "X-Title": "Hikari Manga"
         },
         "defaultParams": {},
-        "temperature": 0.3
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
       },
       "modelsConfig": {
         "defaultModelId": "meta-llama/llama-3.3-70b-instruct:free",
@@ -177,11 +209,16 @@
           "nameKey": "name"
         },
         "defaultModels": [
-          { "id": "meta-llama/llama-3.3-70b-instruct:free", "name": "Llama 3.3 70B (مجاني)" },
-          { "id": "google/gemini-2.0-flash-exp:free", "name": "Gemini 2.0 Flash (مجاني)" }
+          {
+            "id": "meta-llama/llama-3.3-70b-instruct:free",
+            "name": "Llama 3.3 70B (مجاني)"
+          },
+          {
+            "id": "google/gemini-2.0-flash-exp:free",
+            "name": "Gemini 2.0 Flash (مجاني)"
+          }
         ]
       }
     }
   ]
 }
-
