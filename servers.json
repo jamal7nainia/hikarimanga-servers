@@ -1655,6 +1655,95 @@
       "versionSource": 2
     },
     {
+      "server": "ht",
+      "type": "en",
+      "support": [
+        "manga"
+      ],
+      "tabs": [
+        {
+          "title": "الأحدث",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "جميع الأعمال",
+          "query": "x-all"
+        }
+      ],
+      "referer": "https://hivetoons.org/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode":7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/hivetoons-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "ky",
+      "type": "en",
+      "support": [
+        "manga"
+      ],
+      "tabs": [
+        {
+          "title": "الأحدث",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "الأكثر رواجاً",
+          "query": "x-trending"
+        },
+        {
+          "title": "جميع الأعمال",
+          "query": "x-all"
+        }
+      ],
+      "referer": "https://kaynscans.com/",
+      "isWebsiteProtected": true,
+     "isActive": false,
+      "versionCode":7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kaynscans-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "wc",
+      "type": "en",
+      "support": [
+        "manga"
+      ],
+      "tabs": [
+        {
+          "title": "الأحدث",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "الأكثر متابعة",
+          "query": "x-subscribers"
+        },
+        {
+          "title": "جميع الأعمال",
+          "query": "x-all"
+        }
+      ],
+      "referer": "https://weebcentral.com/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode":7,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/weebcentral-release.json",
+      "versionSource": 1
+    },
+    {
       "server": "ko",
       "type": "ar",
       "support": [
