@@ -3,142 +3,6 @@
   "adProvider": "startio",
   "data": [
     {
-      "server": "ko",
-      "type": "ar",
-      "support": [
-        "novel"
-      ],
-      "tabs": [
-        {
-          "title": "الأكثر شعبية",
-          "query": "x-popular"
-        },
-        {
-          "title": "آخر التحديثات",
-          "query": "x-latest"
-        },
-        {
-          "title": "أحدث الروايات",
-          "query": "x-new"
-        }
-      ],
-      "referer": "https://kolnovel.com/",
-      "isWebsiteProtected": true,
-      "isActive": false,
-      "versionCode": 7,
-      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kolnovel-release.json",
-      "versionSource": 4
-    },
-    {
-      "server": "cn",
-      "type": "ar",
-      "support": [
-        "novel"
-      ],
-      "tabs": [
-        {
-          "title": "الأكثر شعبية",
-          "query": "x-popular"
-        },
-        {
-          "title": "آخر التحديثات",
-          "query": "x-latest"
-        },
-        {
-          "title": "الأعلى تقييماً",
-          "query": "x-rating"
-        },
-        {
-          "title": "الأكثر مشاهدة",
-          "query": "x-views"
-        },
-        {
-          "title": "روايات كورية",
-          "query": "x-korean"
-        },
-        {
-          "title": "روايات مكتملة",
-          "query": "x-completed"
-        }
-      ],
-      "referer": "https://cenele.com/",
-      "isWebsiteProtected": true,
-      "isActive": false,
-      "versionCode": 7,
-      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/cenele-release.json",
-      "versionSource": 3
-    },
-    {
-      "server": "gx",
-      "type": "ar",
-      "support": [
-        "novel"
-      ],
-      "tabs": [
-        {
-          "title": "الأكثر شعبية",
-          "query": "x-popular"
-        },
-        {
-          "title": "آخر التحديثات",
-          "query": "x-latest"
-        },
-        {
-          "title": "الأعلى تقييماً",
-          "query": "x-rating"
-        },
-        {
-          "title": "أبجدي",
-          "query": "x-alphabetical"
-        },
-        {
-          "title": "الروايات المكتملة",
-          "query": "x-completed"
-        }
-      ],
-      "referer": "https://galaxynovels.com/",
-      "isWebsiteProtected": true,
-      "isActive": false,
-      "versionCode": 7,
-      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/galaxynovels-release.json",
-      "versionSource": 1
-    },
-    {
-      "server": "sn",
-      "type": "ar",
-      "support": [
-        "novel"
-      ],
-      "tabs": [
-        {
-          "title": "أشهر الروايات",
-          "query": "x-popular"
-        },
-        {
-          "title": "أحدث الفصول",
-          "query": "x-latest"
-        },
-        {
-          "title": "روايات إثارة",
-          "query": "x-thriller"
-        },
-        {
-          "title": "روايات يابانية",
-          "query": "x-japanese"
-        },
-        {
-          "title": "روايات كورية",
-          "query": "x-korean"
-        }
-      ],
-      "referer": "https://sunovels.com/",
-      "isWebsiteProtected": false,
-      "isActive": false,
-      "versionCode": 7,
-      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/sunovels-release.json",
-      "versionSource": 2
-    },
-    {
       "server": "ms",
       "type": "ar",
       "support": [
@@ -577,7 +441,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangatek-release.json",
-      "versionSource": 8
+      "versionSource": 9
     },
     {
       "server": "sd",
@@ -607,7 +471,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangasid-release.json",
-      "versionSource": 5
+      "versionSource": 6
     },
     {
       "server": "md",
@@ -991,7 +855,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/dilar-release.json",
-      "versionSource": 27
+      "versionSource": 18
     },
     {
       "server": "tx",
@@ -1791,6 +1655,142 @@
       "versionSource": 2
     },
     {
+      "server": "ko",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "أحدث الروايات",
+          "query": "x-new"
+        }
+      ],
+      "referer": "https://kolnovel.com/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode": 8,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kolnovel-release.json",
+      "versionSource": 4
+    },
+    {
+      "server": "cn",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأعلى تقييماً",
+          "query": "x-rating"
+        },
+        {
+          "title": "الأكثر مشاهدة",
+          "query": "x-views"
+        },
+        {
+          "title": "روايات كورية",
+          "query": "x-korean"
+        },
+        {
+          "title": "روايات مكتملة",
+          "query": "x-completed"
+        }
+      ],
+      "referer": "https://cenele.com/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode": 8,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/cenele-release.json",
+      "versionSource": 3
+    },
+    {
+      "server": "gx",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأعلى تقييماً",
+          "query": "x-rating"
+        },
+        {
+          "title": "أبجدي",
+          "query": "x-alphabetical"
+        },
+        {
+          "title": "الروايات المكتملة",
+          "query": "x-completed"
+        }
+      ],
+      "referer": "https://galaxynovels.com/",
+      "isWebsiteProtected": true,
+      "isActive": false,
+      "versionCode": 8,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/galaxynovels-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "sn",
+      "type": "ar",
+      "support": [
+        "novel"
+      ],
+      "tabs": [
+        {
+          "title": "أشهر الروايات",
+          "query": "x-popular"
+        },
+        {
+          "title": "أحدث الفصول",
+          "query": "x-latest"
+        },
+        {
+          "title": "روايات إثارة",
+          "query": "x-thriller"
+        },
+        {
+          "title": "روايات يابانية",
+          "query": "x-japanese"
+        },
+        {
+          "title": "روايات كورية",
+          "query": "x-korean"
+        }
+      ],
+      "referer": "https://sunovels.com/",
+      "isWebsiteProtected": false,
+      "isActive": false,
+      "versionCode": 8,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/sunovels-release.json",
+      "versionSource": 2
+    },
+    {
       "server": "rn",
       "type": "ar",
       "support": [
@@ -1829,7 +1829,7 @@
       "referer": "https://realmnovel.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 7,
+      "versionCode": 8,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/realmnovel-release.json",
       "versionSource": 3
     },
@@ -1864,7 +1864,7 @@
       "referer": "https://ar-no.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 7,
+      "versionCode": 8,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/arno-release.json",
       "versionSource": 2
     },
@@ -1903,7 +1903,7 @@
       "referer": "https://seanovel.org/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 7,
+      "versionCode": 8,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/seanovel-release.json",
       "versionSource": 1
     },
@@ -1926,7 +1926,7 @@
       "referer": "https://mknov.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 7,
+      "versionCode": 8,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mknov-release.json",
       "versionSource": 1
     },
@@ -1953,7 +1953,7 @@
       "referer": "https://rewayat.club/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 7,
+      "versionCode": 8,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rewayatclub-release.json",
       "versionSource": 1
     }
