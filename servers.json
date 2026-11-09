@@ -441,7 +441,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangatek-release.json",
-      "versionSource": 9
+      "versionSource": 10
     },
     {
       "server": "sd",
@@ -471,7 +471,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangasid-release.json",
-      "versionSource": 6
+      "versionSource": 7
     },
     {
       "server": "md",
