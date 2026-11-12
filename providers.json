@@ -219,6 +219,529 @@
           }
         ]
       }
+    },
+    {
+      "id": "qwen",
+      "name": "Alibaba Qwen (DashScope)",
+      "websiteUrl": "https://dashscope.console.aliyun.com/apiKey",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "sk-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://dashscope-intl.aliyuncs.com/compatible-mode/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "qwen-plus",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "qwen-plus",
+            "name": "Qwen Plus"
+          },
+          {
+            "id": "qwen-turbo",
+            "name": "Qwen Turbo"
+          },
+          {
+            "id": "qwen-max",
+            "name": "Qwen Max"
+          },
+          {
+            "id": "qwen2.5-72b-instruct",
+            "name": "Qwen 2.5 72B Instruct"
+          },
+          {
+            "id": "qwen2.5-32b-instruct",
+            "name": "Qwen 2.5 32B Instruct"
+          },
+          {
+            "id": "qwen2.5-14b-instruct",
+            "name": "Qwen 2.5 14B Instruct"
+          },
+          {
+            "id": "qwen2.5-7b-instruct",
+            "name": "Qwen 2.5 7B Instruct"
+          }
+        ]
+      }
+    },
+    {
+      "id": "siliconflow",
+      "name": "SiliconFlow (SiliconCloud)",
+      "websiteUrl": "https://cloud.siliconflow.cn/account/ak",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "sk-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://api.siliconflow.cn/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "Qwen/Qwen2.5-7B-Instruct",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "Qwen/Qwen2.5-7B-Instruct",
+            "name": "Qwen 2.5 7B (مجاني)"
+          },
+          {
+            "id": "deepseek-ai/DeepSeek-V3",
+            "name": "DeepSeek V3"
+          },
+          {
+            "id": "deepseek-ai/DeepSeek-R1",
+            "name": "DeepSeek R1"
+          },
+          {
+            "id": "THUDM/glm-4-9b-chat",
+            "name": "GLM-4 9B Chat (مجاني)"
+          },
+          {
+            "id": "internlm/internlm2_5-7b-chat",
+            "name": "InternLM 2.5 7B (مجاني)"
+          },
+          {
+            "id": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+            "name": "Llama 3.1 8B (مجاني)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "zhipu",
+      "name": "Zhipu AI (GLM)",
+      "websiteUrl": "https://open.bigmodel.cn/usercenter/apikeys",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "Your API Key"
+      },
+      "endpoints": {
+        "baseUrl": "https://open.bigmodel.cn/api/paas/v4",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "glm-4-flash",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "glm-4-flash",
+            "name": "GLM-4 Flash (مجاني وسريع)"
+          },
+          {
+            "id": "glm-4-plus",
+            "name": "GLM-4 Plus"
+          },
+          {
+            "id": "glm-4-air",
+            "name": "GLM-4 Air"
+          },
+          {
+            "id": "glm-4-long",
+            "name": "GLM-4 Long"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moonshot",
+      "name": "Moonshot AI (Kimi)",
+      "websiteUrl": "https://platform.moonshot.cn/console/api-keys",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "sk-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://api.moonshot.cn/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "moonshot-v1-8k",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "moonshot-v1-8k",
+            "name": "Moonshot V1 8K"
+          },
+          {
+            "id": "moonshot-v1-32k",
+            "name": "Moonshot V1 32K"
+          },
+          {
+            "id": "moonshot-v1-128k",
+            "name": "Moonshot V1 128K"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lingyiwanwu",
+      "name": "01.AI (Yi)",
+      "websiteUrl": "https://platform.lingyiwanwu.com/",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "sk-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://api.lingyiwanwu.com/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "yi-lightning",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "yi-lightning",
+            "name": "Yi Lightning (فائق السرعة)"
+          },
+          {
+            "id": "yi-large",
+            "name": "Yi Large"
+          },
+          {
+            "id": "yi-medium",
+            "name": "Yi Medium"
+          }
+        ]
+      }
+    },
+    {
+      "id": "baichuan",
+      "name": "Baichuan AI",
+      "websiteUrl": "https://platform.baichuan-ai.com/console/apikey",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "sk-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://api.baichuan-ai.com/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "Baichuan4-Turbo",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "Baichuan4-Turbo",
+            "name": "Baichuan 4 Turbo"
+          },
+          {
+            "id": "Baichuan4",
+            "name": "Baichuan 4"
+          },
+          {
+            "id": "Baichuan3-Turbo",
+            "name": "Baichuan 3 Turbo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax",
+      "websiteUrl": "https://platform.minimaxi.com/",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "sk-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://api.minimax.io/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "MiniMax-M3.1-Flash",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "MiniMax-M3.1-Flash",
+            "name": "MiniMax M3.1 Flash"
+          },
+          {
+            "id": "MiniMax-Text-01",
+            "name": "MiniMax Text 01"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mistral",
+      "name": "Mistral AI",
+      "websiteUrl": "https://console.mistral.ai/api-keys/",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "Your API Key"
+      },
+      "endpoints": {
+        "baseUrl": "https://api.mistral.ai/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "mistral-small-latest",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "mistral-small-latest",
+            "name": "Mistral Small (Latest)"
+          },
+          {
+            "id": "mistral-large-latest",
+            "name": "Mistral Large (Latest)"
+          },
+          {
+            "id": "codestral-latest",
+            "name": "Codestral"
+          },
+          {
+            "id": "open-mistral-nemo",
+            "name": "Mistral Nemo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cerebras",
+      "name": "Cerebras",
+      "websiteUrl": "https://cloud.cerebras.ai/",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "csk-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://api.cerebras.ai/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.2,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "llama3.3-70b",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "llama3.3-70b",
+            "name": "Llama 3.3 70B (فائق السرعة)"
+          },
+          {
+            "id": "llama3.1-8b",
+            "name": "Llama 3.1 8B"
+          }
+        ]
+      }
+    },
+    {
+      "id": "together",
+      "name": "Together AI",
+      "websiteUrl": "https://api.together.ai/settings/api-keys",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "Your API Key"
+      },
+      "endpoints": {
+        "baseUrl": "https://api.together.xyz/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+            "name": "Llama 3.3 70B Turbo"
+          },
+          {
+            "id": "deepseek-ai/DeepSeek-V3",
+            "name": "DeepSeek V3"
+          },
+          {
+            "id": "Qwen/Qwen2.5-72B-Instruct-Turbo",
+            "name": "Qwen 2.5 72B Turbo"
+          },
+          {
+            "id": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+            "name": "Mixtral 8x7B"
+          }
+        ]
+      }
+    },
+    {
+      "id": "xai",
+      "name": "xAI (Grok)",
+      "websiteUrl": "https://console.x.ai/",
+      "auth": {
+        "type": "bearer",
+        "keyPlaceholder": "xai-..."
+      },
+      "endpoints": {
+        "baseUrl": "https://api.x.ai/v1",
+        "chatPath": "/chat/completions",
+        "modelsPath": "/models"
+      },
+      "requestConfig": {
+        "apiFormat": "openai",
+        "defaultHeaders": {
+          "Content-Type": "application/json"
+        },
+        "defaultParams": {},
+        "temperature": 0.3,
+        "responseContentPath": "choices.0.message.content"
+      },
+      "modelsConfig": {
+        "defaultModelId": "grok-2-latest",
+        "responseExtractor": {
+          "itemsPath": "data",
+          "idKey": "id",
+          "nameKey": "id"
+        },
+        "defaultModels": [
+          {
+            "id": "grok-2-latest",
+            "name": "Grok 2"
+          },
+          {
+            "id": "grok-beta",
+            "name": "Grok Beta"
+          }
+        ]
+      }
     }
   ]
 }
