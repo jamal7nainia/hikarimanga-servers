@@ -330,8 +330,7 @@
       "server": "dm",
       "type": "ar",
       "support": [
-        "manga",
-        "novel"
+        "manga"
       ],
       "tabs": [
         {
@@ -348,10 +347,10 @@
         }
       ],
       "referer": "https://despair-world.com/",
-      "isWebsiteProtected": true,
-      "isActive": false,
+      "isWebsiteProtected": false,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/despair-manga-release.json",
-      "versionSource": 3
+      "versionSource": 4
     },
     {
       "server": "om",
