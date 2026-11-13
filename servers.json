@@ -30,11 +30,11 @@
           "query": "alphabet"
         }
       ],
-      "referer": "https://starzmanga.com/",
+      "referer": "https://starzmanga.net/",
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangastarz-release.json",
-      "versionSource": 23
+      "versionSource": 24
     },
     {
       "server": "ml",
@@ -348,7 +348,7 @@
       ],
       "referer": "https://despair-world.com/",
       "isWebsiteProtected": false,
-      "isActive": true,
+      "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/despair-manga-release.json",
       "versionSource": 4
     },
