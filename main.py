@@ -1,14 +1,21 @@
-import time
-
-p="azertyuiopmcsndfgbhjlbvwxc1234567890!:;.,? £$"
-target = input("Give me your word: ")
-r=""
-pos = 0
-while(target!=r):
-    for i in p:
-        if(target[pos] == i):
-            r = r + i
-            print(r)
-        print(r+i)
-        time.sleep(0.05)   
-    pos +=1
+valid = False
+def verify(n):
+    if(16>=n):
+        return "Tres Bien"
+    elif(14<=n<=15.99):
+        return "Bien"
+    elif(12<=n<=13.99):
+        return "Assez Bien"
+    elif(10<=n<=11.99):
+        return "Passable"
+    else:
+        return "Non admis"
+    
+        
+while(valid == False):
+    try:
+        n = float(input("Svp la note: "))
+        valid = True
+    except:
+        n = float(input("Error, svp la note: "))
+print(verify(n)) 
