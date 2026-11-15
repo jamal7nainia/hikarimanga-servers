@@ -2078,13 +2078,13 @@
         "manga"
       ],
       "tabs": [
+         {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
         {
           "title": "الأكثر شعبية",
           "query": "x-popular"
-        },
-        {
-          "title": "آخر التحديثات",
-          "query": "x-latest"
         },
         {
           "title": "جميع الأعمال",
