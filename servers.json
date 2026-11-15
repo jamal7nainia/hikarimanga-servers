@@ -2070,6 +2070,32 @@
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rawkuma-release.json",
       "versionSource": 1
+    },
+    {
+      "server": "ki",
+      "type": "en",
+      "support": [
+        "manga"
+      ],
+      "tabs": [
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "جميع الأعمال",
+          "query": "x-all"
+        }
+      ],
+      "referer": "https://komikstation.org/",
+      "isWebsiteProtected": true,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/komikstation-release.json",
+      "versionSource": 1
     }
   ]
 }
