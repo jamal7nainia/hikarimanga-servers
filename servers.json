@@ -1290,10 +1290,6 @@
       ],
       "tabs": [
         {
-          "title": "الأكثر مشاهدة",
-          "query": "views"
-        },
-        {
           "title": "الأكثر شعبية",
           "query": "popular"
         },
@@ -1302,8 +1298,12 @@
           "query": "latest"
         },
         {
-          "title": "الأعلى تقييمًا",
-          "query": "rating"
+          "title": "الكل",
+          "query": "all"
+        },
+        {
+          "title": "الأكثر مشاهدة",
+          "query": "views"
         },
         {
           "title": "توصيات",
@@ -1311,10 +1311,10 @@
         }
       ],
       "referer": "https://procomic.pro/ar",
-      "isWebsiteProtected": false,
-      "isActive": false,
+      "isWebsiteProtected": true,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/procomic-release.json",
-      "versionSource": 3
+      "versionSource": 4
     },
     {
       "server": "ss",
@@ -1765,7 +1765,7 @@
       "referer": "https://kolnovel.com/",
       "isWebsiteProtected": true,
       "isActive": false,
-      "versionCode": 8,
+      "versionCode": 9,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kolnovel-release.json",
       "versionSource": 4
     },
@@ -1804,7 +1804,7 @@
       "referer": "https://cenele.com/",
       "isWebsiteProtected": true,
       "isActive": false,
-      "versionCode": 8,
+      "versionCode": 9,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/cenele-release.json",
       "versionSource": 3
     },
@@ -1839,7 +1839,7 @@
       "referer": "https://galaxynovels.com/",
       "isWebsiteProtected": true,
       "isActive": false,
-      "versionCode": 8,
+      "versionCode": 9,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/galaxynovels-release.json",
       "versionSource": 1
     },
@@ -1874,7 +1874,7 @@
       "referer": "https://sunovels.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 8,
+      "versionCode": 9,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/sunovels-release.json",
       "versionSource": 2
     },
@@ -1917,7 +1917,7 @@
       "referer": "https://realmnovel.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 8,
+      "versionCode": 9,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/realmnovel-release.json",
       "versionSource": 3
     },
@@ -1952,7 +1952,7 @@
       "referer": "https://ar-no.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 8,
+      "versionCode": 9,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/arno-release.json",
       "versionSource": 2
     },
@@ -1991,7 +1991,7 @@
       "referer": "https://seanovel.org/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 8,
+      "versionCode": 9,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/seanovel-release.json",
       "versionSource": 1
     },
@@ -2014,7 +2014,7 @@
       "referer": "https://mknov.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 8,
+      "versionCode": 9,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mknov-release.json",
       "versionSource": 1
     },
@@ -2041,7 +2041,7 @@
       "referer": "https://rewayat.club/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 8,
+      "versionCode": 9,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rewayatclub-release.json",
       "versionSource": 1
     },
@@ -2078,7 +2078,7 @@
         "manga"
       ],
       "tabs": [
-         {
+        {
           "title": "آخر التحديثات",
           "query": "x-latest"
         },
