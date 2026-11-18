@@ -1,6 +1,6 @@
 {
   "success": true,
-  "adProvider": "startio",
+  "averageShowAd": [[3, 75], [4, 25]],
   "data": [
     {
       "server": "ms",
