@@ -1618,7 +1618,7 @@
       "referer": "https://comix.to/",
       "isWebsiteProtected": true,
       "isActive": false,
-      "versionCode": 7,
+      "versionCode": 8,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/comix-release.json",
       "versionSource": 2
     },
@@ -1675,8 +1675,7 @@
       ],
       "referer": "https://hivetoons.org/",
       "isWebsiteProtected": true,
-      "isActive": false,
-      "versionCode": 7,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/hivetoons-release.json",
       "versionSource": 1
     },
@@ -1706,8 +1705,7 @@
       ],
       "referer": "https://kaynscans.com/",
       "isWebsiteProtected": true,
-      "isActive": false,
-      "versionCode": 7,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kaynscans-release.json",
       "versionSource": 1
     },
@@ -1737,8 +1735,7 @@
       ],
       "referer": "https://weebcentral.com/",
       "isWebsiteProtected": true,
-      "isActive": false,
-      "versionCode": 7,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/weebcentral-release.json",
       "versionSource": 1
     },
