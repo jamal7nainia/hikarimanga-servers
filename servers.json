@@ -1,6 +1,15 @@
 {
   "success": true,
-  "averageShowAd": [[3, 75], [4, 25]],
+  "averageShowAd": [
+    [
+      3,
+      75
+    ],
+    [
+      4,
+      25
+    ]
+  ],
   "data": [
     {
       "server": "ms",
@@ -2092,6 +2101,62 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/komikstation-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "lg",
+      "type": "en",
+      "support": [
+        "manga"
+      ],
+      "tabs": [
+        {
+          "title": "أحدث التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "الأعمال الجديدة",
+          "query": "x-new"
+        },
+        {
+          "title": "الترتيب الأبجدي",
+          "query": "x-title"
+        }
+      ],
+      "referer": "https://lagoonscans.com/",
+      "isWebsiteProtected": false,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/lagoonscans-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "au",
+      "type": "en",
+      "support": [
+        "manga"
+      ],
+      "tabs": [
+        {
+          "title": "أحدث التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "الأعمال الجديدة",
+          "query": "x-new"
+        }
+      ],
+      "referer": "https://asurascans.com/",
+      "isWebsiteProtected": true,
+      "isActive": true,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/asurascans-release.json",
       "versionSource": 1
     }
   ]
