@@ -2129,7 +2129,7 @@
       ],
       "referer": "https://lagoonscans.com/",
       "isWebsiteProtected": false,
-      "isActive": true,
+      "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/lagoonscans-release.json",
       "versionSource": 1
     },
@@ -2155,7 +2155,7 @@
       ],
       "referer": "https://asurascans.com/",
       "isWebsiteProtected": true,
-      "isActive": true,
+      "isActive": false,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/asurascans-release.json",
       "versionSource": 1
     }
