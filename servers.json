@@ -1385,7 +1385,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangaball-release.json",
-      "versionSource": 5
+      "versionSource": 6
     },
     {
       "server": "fi",
@@ -2131,7 +2131,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/lagoonscans-release.json",
-      "versionSource": 2
+      "versionSource": 3
     },
     {
       "server": "au",
@@ -2157,7 +2157,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/asurascans-release.json",
-      "versionSource": 2
+      "versionSource": 3
     }
   ]
 }
