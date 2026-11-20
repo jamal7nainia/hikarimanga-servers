@@ -3,11 +3,11 @@
   "averageShowAd": [
     [
       3,
-      75
+      60
     ],
     [
       4,
-      25
+      40
     ]
   ],
   "data": [
@@ -2131,7 +2131,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/lagoonscans-release.json",
-      "versionSource": 3
+      "versionSource": 4
     },
     {
       "server": "au",
@@ -2157,7 +2157,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/asurascans-release.json",
-      "versionSource": 3
+      "versionSource": 4
     }
   ]
 }
