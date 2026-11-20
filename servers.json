@@ -209,7 +209,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/meshmanga-release.json",
-      "versionSource": 3
+      "versionSource": 4
     },
     {
       "server": "ti",
@@ -860,10 +860,11 @@
         }
       ],
       "referer": "https://dilar.tube/",
-      "isWebsiteProtected": false,
+      "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/dilar-release.json",
-      "versionSource": 18
+      "versionSource": 19,
+      "isPagesProtected": true
     },
     {
       "server": "tx",
@@ -1385,7 +1386,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangaball-release.json",
-      "versionSource": 7
+      "versionSource": 8
     },
     {
       "server": "fi",
