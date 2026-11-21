@@ -206,10 +206,10 @@
         }
       ],
       "referer": "https://meshmanga.com/",
-      "isWebsiteProtected": true,
+      "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/meshmanga-release.json",
-      "versionSource": 4
+      "versionSource": 5
     },
     {
       "server": "ti",
