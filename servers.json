@@ -43,7 +43,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangastarz-release.json",
-      "versionSource": 24
+      "versionSource": 25
     },
     {
       "server": "ml",
@@ -1537,7 +1537,7 @@
       "isActive": true,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manhuarmtl-release.json",
-      "versionSource": 7
+      "versionSource": 8
     },
     {
       "server": "ks",
