@@ -1535,9 +1535,8 @@
       "referer": "https://manhuarmtl.com/",
       "isWebsiteProtected": true,
       "isActive": true,
-      "versionCode": 9,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manhuarmtl-release.json",
-      "versionSource": 8
+      "versionSource": 10
     },
     {
       "server": "ks",
@@ -1627,8 +1626,7 @@
       ],
       "referer": "https://comix.to/",
       "isWebsiteProtected": true,
-      "isActive": false,
-      "versionCode": 8,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/comix-release.json",
       "versionSource": 5
     },
@@ -1661,7 +1659,7 @@
       "isActive": true,
       "versionCode": 6,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rokari-release.json",
-      "versionSource": 2
+      "versionSource": 3
     },
     {
       "server": "ht",
@@ -1687,7 +1685,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/hivetoons-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "ky",
@@ -1717,7 +1715,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kaynscans-release.json",
-      "versionSource": 1
+      "versionSource": 2
     },
     {
       "server": "wc",
