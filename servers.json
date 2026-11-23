@@ -1533,10 +1533,10 @@
         }
       ],
       "referer": "https://manhuarmtl.com/",
-      "isWebsiteProtected": true,
+      "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manhuarmtl-release.json",
-      "versionSource": 10
+      "versionSource": 13
     },
     {
       "server": "ks",
