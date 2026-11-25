@@ -1322,9 +1322,9 @@
       ],
       "referer": "https://procomic.pro/ar",
       "isWebsiteProtected": true,
-      "isActive": false,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/procomic-release.json",
-      "versionSource": 4
+      "versionSource": 5
     },
     {
       "server": "ss",
@@ -1536,7 +1536,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/manhuarmtl-release.json",
-      "versionSource": 15
+      "versionSource": 16
     },
     {
       "server": "ks",
@@ -1628,7 +1628,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/comix-release.json",
-      "versionSource": 5
+      "versionSource": 6
     },
     {
       "server": "rk",
