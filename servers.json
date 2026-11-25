@@ -2158,6 +2158,106 @@
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/asurascans-release.json",
       "versionSource": 4
+    },
+    {
+      "server": "bt",
+      "type": "en",
+      "support": [
+        "manga"
+      ],
+      "tabs": [
+        {
+          "title": "آخر التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأعمال الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "الأعمال الجديدة",
+          "query": "x-new"
+        },
+        {
+          "title": "الأعمال المكتملة",
+          "query": "x-completed"
+        }
+      ],
+      "referer": "https://mangabolt.com/",
+      "isWebsiteProtected": false,
+      "isPagesProtected": false,
+      "isActive": false,
+      "versionCode": 9,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangabolt-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "ds",
+      "type": "en",
+      "support": [
+        "manga"
+      ],
+      "tabs": [
+        {
+          "title": "أحدث الفصول",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر مشاهدة",
+          "query": "x-popular"
+        },
+        {
+          "title": "ترجمات الموقع",
+          "query": "x-translations"
+        },
+        {
+          "title": "الأعمال الجديدة",
+          "query": "x-new"
+        },
+        {
+          "title": "الأعمال المكتملة",
+          "query": "x-completed"
+        }
+      ],
+      "referer": "https://demonicscans.org/",
+      "isWebsiteProtected": false,
+      "isPagesProtected": false,
+      "isActive": false,
+      "versionCode": 9,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/demonicscans-release.json",
+      "versionSource": 1
+    },
+    {
+      "server": "dt",
+      "type": "en",
+      "support": [
+        "manga"
+      ],
+      "tabs": [
+        {
+          "title": "أحدث التحديثات",
+          "query": "x-latest"
+        },
+        {
+          "title": "الأكثر شعبية",
+          "query": "x-popular"
+        },
+        {
+          "title": "الأعلى تقييماً",
+          "query": "x-rating"
+        },
+        {
+          "title": "أعمال جديدة",
+          "query": "x-new"
+        }
+      ],
+      "referer": "https://mangadot.net/",
+      "isWebsiteProtected": false,
+      "isPagesProtected": false,
+      "isActive": false,
+      "versionCode": 9,
+      "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangadot-release.json",
+      "versionSource": 1
     }
   ]
 }
