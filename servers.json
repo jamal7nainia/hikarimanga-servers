@@ -1259,7 +1259,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangakakalove-release.json",
-      "versionSource": 2
+      "versionSource": 3
     },
     {
       "server": "kt",
@@ -1289,7 +1289,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangakatana-release.json",
-      "versionSource": 2
+      "versionSource": 3
     },
     {
       "server": "pc",
