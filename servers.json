@@ -1771,7 +1771,7 @@
       "referer": "https://kolnovel.com/",
       "isWebsiteProtected": true,
       "isActive": false,
-      "versionCode": 9,
+      "versionCode": 10,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/kolnovel-release.json",
       "versionSource": 4
     },
@@ -1810,7 +1810,7 @@
       "referer": "https://cenele.com/",
       "isWebsiteProtected": true,
       "isActive": false,
-      "versionCode": 9,
+      "versionCode": 10,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/cenele-release.json",
       "versionSource": 3
     },
@@ -1845,7 +1845,7 @@
       "referer": "https://galaxynovels.com/",
       "isWebsiteProtected": true,
       "isActive": false,
-      "versionCode": 9,
+      "versionCode": 10,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/galaxynovels-release.json",
       "versionSource": 1
     },
@@ -1880,7 +1880,7 @@
       "referer": "https://sunovels.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 9,
+      "versionCode": 10,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/sunovels-release.json",
       "versionSource": 2
     },
@@ -1923,7 +1923,7 @@
       "referer": "https://realmnovel.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 9,
+      "versionCode": 10,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/realmnovel-release.json",
       "versionSource": 3
     },
@@ -1958,7 +1958,7 @@
       "referer": "https://ar-no.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 9,
+      "versionCode": 10,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/arno-release.json",
       "versionSource": 2
     },
@@ -1997,7 +1997,7 @@
       "referer": "https://seanovel.org/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 9,
+      "versionCode": 10,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/seanovel-release.json",
       "versionSource": 1
     },
@@ -2020,7 +2020,7 @@
       "referer": "https://mknov.com/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 9,
+      "versionCode": 10,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mknov-release.json",
       "versionSource": 1
     },
@@ -2047,7 +2047,7 @@
       "referer": "https://rewayat.club/",
       "isWebsiteProtected": false,
       "isActive": false,
-      "versionCode": 9,
+      "versionCode": 10,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/rewayatclub-release.json",
       "versionSource": 1
     },
@@ -2186,8 +2186,7 @@
       "referer": "https://mangabolt.com/",
       "isWebsiteProtected": false,
       "isPagesProtected": false,
-      "isActive": false,
-      "versionCode": 9,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangabolt-release.json",
       "versionSource": 1
     },
@@ -2222,8 +2221,7 @@
       "referer": "https://demonicscans.org/",
       "isWebsiteProtected": false,
       "isPagesProtected": false,
-      "isActive": false,
-      "versionCode": 9,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/demonicscans-release.json",
       "versionSource": 1
     },
@@ -2254,8 +2252,7 @@
       "referer": "https://mangadot.net/",
       "isWebsiteProtected": false,
       "isPagesProtected": false,
-      "isActive": false,
-      "versionCode": 9,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangadot-release.json",
       "versionSource": 1
     }
