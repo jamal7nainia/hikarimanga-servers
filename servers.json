@@ -2,12 +2,12 @@
   "success": true,
   "averageShowAd": [
     [
-      3,
-      60
+      4,
+      70
     ],
     [
-      4,
-      40
+      5,
+      30
     ]
   ],
   "data": [
@@ -509,7 +509,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangadar-release.json",
-      "versionSource": 2
+      "versionSource": 1
     },
     {
       "server": "km",
@@ -565,7 +565,7 @@
       "isWebsiteProtected": false,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangack-release.json",
-      "versionSource": 2
+      "versionSource": 1
     },
     {
       "server": "dx",
@@ -1386,7 +1386,7 @@
       "isWebsiteProtected": true,
       "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/mangaball-release.json",
-      "versionSource": 8
+      "versionSource": 7
     },
     {
       "server": "fi",
