@@ -1596,10 +1596,9 @@
       ],
       "referer": "https://athreascans.com/",
       "isWebsiteProtected": true,
-      "isActive": false,
-      "versionCode": 6,
+      "isActive": true,
       "fileLink": "https://github.com/jamal7nainia/Hikari-Manga-Extensions/releases/download/hikarimanga_extension/athreascans-release.json",
-      "versionSource": 2
+      "versionSource": 3
     },
     {
       "server": "cx",
